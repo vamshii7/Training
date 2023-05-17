@@ -1,0 +1,7 @@
+  981  alias update ='sudo apt -y update'
+  982  alias update ='sudo apt update'
+  983  alias update = 'sudo apt update'
+  984  alias install='sudo apt-get -y install'
+  986  alias update='sudo apt-get -y update'
+  988  alias upgrade='sudo apt-get -y upgrade'
+ 1157  history | grep 'alias' > alias.txt
